@@ -1,5 +1,3 @@
-sbert.ipynbの最後を見てください。
-
 # Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks 
 ## Nils Reimers and Iryna Gurevych
 
